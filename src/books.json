@@ -1,0 +1,70 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Fiction",
+      "publication_year": 1960,
+      "isbn": "978-0-06-112008-4",
+      "availability": true,
+      "location": "Shelf A3",
+      "copies_available": 3
+    },
+    {
+      "id": "2",
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian",
+      "publication_year": 1949,
+      "isbn": "978-0-452-28423-4",
+      "availability": false,
+      "location": "Shelf B5",
+      "copies_available": 0
+    },
+    {
+      "id": "3",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Classics",
+      "publication_year": 1925,
+      "isbn": "978-0-7432-7356-5",
+      "availability": true,
+      "location": "Shelf C2",
+      "copies_available": 2
+    },
+    {
+      "id": "4",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "Romance",
+      "publication_year": 1813,
+      "isbn": "978-0-19-280238-5",
+      "availability": true,
+      "location": "Shelf A1",
+      "copies_available": 5
+    },
+    {
+      "id": "5",
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "genre": "Literary Fiction",
+      "publication_year": 1951,
+      "isbn": "978-0-316-76948-0",
+      "availability": false,
+      "location": "Shelf D4",
+      "copies_available": 0
+    },
+    {
+      "id": "94aa",
+      "title": "Bible",
+      "author": "God",
+      "genre": "Non-Fiction",
+      "publication_year": "0",
+      "isbn": "000000000000000001",
+      "availability": true,
+      "location": "Heaven",
+      "copies_available": "1"
+    }
+  ]
+}
