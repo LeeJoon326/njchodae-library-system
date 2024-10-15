@@ -30,7 +30,7 @@ const BookListings = () => {
     { field: 'title', headerName: 'Title', flex: 1 },
     { field: 'author', headerName: 'Author', flex: 1 },
     { field: 'genre', headerName: 'Genre', flex: 1 },
-    { field: 'publication_year', headerName: 'Publication Year', flex: 1, type: 'number' },
+    { field: 'publication_year', headerName: 'Publication Year', flex: 1 },
     { field: 'isbn', headerName: 'ISBN', flex: 1 },
     { field: 'availability', headerName: 'Availability', flex: 1, renderCell: (params) => (params.value ? 'Yes' : 'No') },
     { field: 'location', headerName: 'Location', flex: 1 },
